@@ -10,7 +10,8 @@ const initialState = [
     code: `<div>
     <h1>Code editor with React</h1>
     <p>Code directly on your browser.</p>
-    </div>`,
+</div>
+    `,
   },
   {
     id: 2,
@@ -18,11 +19,11 @@ const initialState = [
     imgURL: css,
     buttonContent: 'CSS',
     code: `body {
-      font-family: 'Roboto', sans-serif;
-      padding: 25px;
-      color: #111;
-      background-color: #f1f1f1;
-      }`,
+    font-family: 'Roboto', sans-serif;
+    padding: 25px;
+    color: #111;
+    background-color: #f1f1f1;
+}`,
   },
   {
     id: 3,
